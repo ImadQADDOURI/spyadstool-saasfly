@@ -1,0 +1,21 @@
+npm install -g bun # the last `npm` command you'll ever need
+
+
+--------------------------------------------------------------------------
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ImadQADDOURI/spyadstool-saasfly.git
+git push -u origin main
+--------------------------------------------------------------------------
+
+bun i
+...doc
+
+
+
+bun install -g neonctl
+
+npm install prisma --save-dev
+bun run check-deps --fix
